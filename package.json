@@ -11,5 +11,8 @@
     "url": "git+https://github.com/manishbasnet/weatherApp.git"
   },
   "author": "Manish Basnet",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
